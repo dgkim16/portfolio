@@ -1,1 +1,1 @@
-dgkim16.github.io/portfolio
+https://dgkim16.github.io/portfolio
